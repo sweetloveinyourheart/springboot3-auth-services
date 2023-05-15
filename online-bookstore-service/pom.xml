@@ -8,10 +8,10 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.online_bookstore</groupId>
-	<artifactId>online_bookstore-1.0.0.jar</artifactId>
+	<groupId>com.online-bookstore</groupId>
+	<artifactId>online-bookstore-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>online_bookstore-1.0.0.jar</name>
+	<name>online-bookstore-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>20</java.version>

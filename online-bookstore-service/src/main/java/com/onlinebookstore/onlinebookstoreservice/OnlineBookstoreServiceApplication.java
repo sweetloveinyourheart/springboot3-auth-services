@@ -1,13 +1,13 @@
-package com.online_bookstore.online_bookstore100.jar;
+package com.onlinebookstore.onlinebookstoreservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class OnlineBookstoreServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(OnlineBookstoreServiceApplication.class, args);
 	}
 
 }
